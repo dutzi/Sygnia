@@ -1,0 +1,33 @@
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table thead {
+  font-weight: bold
+}
+
+.table thead a {
+  text-decoration: none;
+  color: black;
+}
+
+.table thead td {
+  padding: 10px 10px 10px 5px;
+}
+
+.table tbody tr:nth-child(odd) {
+  background: #f7f7f7;
+}
+
+.table tbody tr:nth-child(even) {
+  background: #eee;
+}
+
+.table tbody td {
+  padding: 5px;
+}
+
+.table tbody tr:hover td {
+  background: #fffee6;
+}

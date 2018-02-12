@@ -1,0 +1,12 @@
+.filter {
+  padding: 10px;
+  background: linear-gradient(#f1f1f1, #e0e0e0);
+  border-bottom: 1px solid #999;
+}
+
+.filter input {
+  border-radius: 3px;
+  border: 1px solid #999;
+  padding: 5px;
+  font-size: 1em;
+}
